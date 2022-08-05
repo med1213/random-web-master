@@ -1,0 +1,61 @@
+[{
+  "id": 1,
+  "fullname": "Neila Rainbird",
+  "username": "Neila",
+  "role": "Construction Manager",
+  "phone": "505-475-7373"
+}, {
+  "id": 2,
+  "fullname": "Drake Danielou",
+  "username": "Drake",
+  "role": "Surveyor",
+  "phone": "643-987-1646"
+}, {
+  "id": 3,
+  "fullname": "Nada Mallows",
+  "username": "Nada",
+  "role": "Subcontractor",
+  "phone": "639-505-1354"
+}, {
+  "id": 4,
+  "fullname": "Merwyn Sagg",
+  "username": "Merwyn",
+  "role": "Project Manager",
+  "phone": "503-937-4123"
+}, {
+  "id": 5,
+  "fullname": "Carlynne Berkery",
+  "username": "Carlynne",
+  "role": "Electrician",
+  "phone": "753-704-5664"
+}, {
+  "id": 6,
+  "fullname": "Hammad Novik",
+  "username": "Hammad",
+  "role": "Subcontractor",
+  "phone": "373-546-9125"
+}, {
+  "id": 7,
+  "fullname": "Tore Ailsbury",
+  "username": "Tore",
+  "role": "Project Manager",
+  "phone": "503-917-6721"
+}, {
+  "id": 8,
+  "fullname": "Olly Yeomans",
+  "username": "Olly",
+  "role": "Engineer",
+  "phone": "980-752-9713"
+}, {
+  "id": 9,
+  "fullname": "Loutitia Groomebridge",
+  "username": "Loutitia",
+  "role": "Construction Foreman",
+  "phone": "724-661-7515"
+}, {
+  "id": 10,
+  "fullname": "Sherline Acey",
+  "username": "Sherline",
+  "role": "Architect",
+  "phone": "300-933-0723"
+}]

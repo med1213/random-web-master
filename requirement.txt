@@ -1,0 +1,6 @@
+Requirement admin dashboard:
+- react-router-dom
+- axios
+- bootstrap
+- date-picker
+- react-pagination

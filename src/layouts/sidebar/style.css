@@ -1,0 +1,12 @@
+.sidebar-menu{
+    background-color: #45c0ff;
+    padding: .5rem 1rem;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+a{
+    text-decoration: none;
+    padding: .5rem 0;
+    color: #fff;
+}
